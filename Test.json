@@ -1,0 +1,702 @@
+{
+    "from": "2020-03-27T10:25:00Z",
+    "to": "2020-03-27T10:30:00Z",
+    "structure": {
+        "id": "bab38fd6-0205-427d-a1cd-a0a5301134cd",
+        "name": "Name-T3-FCC",
+        "data_type": "COLLECTION",
+        "kpi_type": "DataSet",
+        "kpi_structure": [
+            {
+                "id": "c3f5ed40-efa8-438e-a000-0aaa8fb217c5",
+                "name": "Lane1/2-Pre",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "27c47ae7-41b7-49ce-89ce-b8c8cb25ebc6",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+            {
+                "id": "f6832555-a57d-4eb9-95c4-c72c9741f601",
+                "name": "Lane3/4-Pre",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "a8321357-4ca0-4e0d-b47c-a871763d30b8",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+			{
+                "id": "f6832556-a57d-4eb9-95c4-c72c9741f601",
+                "name": "Lane5/6-Pre",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "a8321357-4ca0-4e0d-b47c-a871763d30b8",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+			{
+                "id": "f6832578-a57d-4eb9-95c4-c72c9741f601",
+                "name": "Lane7/8-Pre",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "a8321357-4ca0-4e0d-b47c-a871763d30b8",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+			{
+                "id": "f6832910-a57d-4eb9-95c4-c72c9741f601",
+                "name": "Lane9/10-Pre",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "a8321357-4ca0-4e0d-b47c-a871763d30b8",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+			{
+                "id": "f6831112-a57d-4eb9-95c4-c72c9741f601",
+                "name": "Lane11/12-Pre",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "a8321357-4ca0-4e0d-b47c-a871763d30b8",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+			{
+                "id": "f6831314-a57d-4eb9-95c4-c72c9741f601",
+                "name": "Lane13/14-Pre",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "a8321357-4ca0-4e0d-b47c-a871763d30b8",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+			{
+                "id": "f6831516-a57d-4eb9-95c4-c72c9741f601",
+                "name": "Lane15/16-Pre",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "a8321357-4ca0-4e0d-b47c-a871763d30b8",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+			{
+                "id": "f6831718-a57d-4eb9-95c4-c72c9741f601",
+                "name": "Lane17/18-Pre",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "a8321357-4ca0-4e0d-b47c-a871763d30b8",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+            {
+                "id": "e902c67a-c319-496c-90db-7af1265837e2",
+                "name": "Lane1/2-Post",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "35d456d1-38c5-4cd2-8c3d-2a4b5e69333f",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+            {
+                "id": "7f01f5d3-e0c1-4f42-aa3c-4c1748cc5e7f",
+                "name": "Lane3/4-Post",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "0ccaf3ef-4399-4bb4-b6c2-e59534f49352",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+			{
+                "id": "7f01f5d3-e0c1-4f42-aa3c-4c1748cc5e7f",
+                "name": "Lane5/6-Post",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "0ccaf3ef-4399-4bb4-b6c2-e59534f49352",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+			{
+                "id": "7f01f5d3-e0c1-4f42-aa3c-4c1748cc5e7f",
+                "name": "Lane7/8-Post",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "0ccaf3ef-4399-4bb4-b6c2-e59534f49352",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+			{
+                "id": "7f01f5d3-e0c1-4f42-aa3c-4c1748cc5e7f",
+                "name": "Lane9/10-Post",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "0ccaf3ef-4399-4bb4-b6c2-e59534f49352",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+			{
+                "id": "7f01f5d3-e0c1-4f42-aa3c-4c1748cc5e7f",
+                "name": "Lane11/12-Post",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "0ccaf3ef-4399-4bb4-b6c2-e59534f49352",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+			{
+                "id": "7f01f5d3-e0c1-4f42-aa3c-4c1748cc5e7f",
+                "name": "Lane13/14-Post",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "0ccaf3ef-4399-4bb4-b6c2-e59534f49352",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+			{
+                "id": "7f01f5d3-e0c1-4f42-aa3c-4c1748cc5e7f",
+                "name": "Lane15/16-Post",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "0ccaf3ef-4399-4bb4-b6c2-e59534f49352",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+			{
+                "id": "7f01f5d3-e0c1-4f42-aa3c-4c1748cc5e7f",
+                "name": "Lane17/18-Post",
+                "data_type": "COLLECTION",
+                "kpi_type": "Desk",
+                "kpi_structure": [
+                    {
+                        "id": "0ccaf3ef-4399-4bb4-b6c2-e59534f49352",
+                        "name": "WaitingTime",
+                        "data_type": "DURATION",
+                        "kpi_type": "WaitingTime",
+                        "unit": "s",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+            {
+                "id": "e600ef91-12ac-4cbb-83e1-b25c136d83b4",
+                "name": "counts",
+                "data_type": "COLLECTION",
+                "kpi_structure": [
+                    {
+                        "id": "ccaa15fa-845c-4000-b2b8-7033ca42ef98",
+                        "name": "in-count-total-nostaff",
+                        "data_type": "INTEGER",
+                        "kpi_type": "in-count-total-nostaff",
+                        "has_history": true
+                    },
+                    {
+                        "id": "cedf4997-a065-45da-aba5-51ad19a0b9e2",
+                        "name": "in-count-prio-nostaff",
+                        "data_type": "INTEGER",
+                        "kpi_type": "in-count-prio-nostaff",
+                        "has_history": true
+                    },
+                    {
+                        "id": "fd014cab-261e-4bf6-b1f2-39797e79f0b8",
+                        "name": "in-count-eco",
+                        "data_type": "INTEGER",
+                        "kpi_type": "in-count-eco",
+                        "has_history": true
+                    }
+                ],
+                "has_history": true
+            },
+        ],
+        "has_history": true
+    },
+    "kpi_data": [
+        {
+            "from": "2020-03-27T10:25:00Z",
+            "to": "2020-03-27T10:26:00Z",
+            "values": {
+                "27c47ae7-41b7-49ce-89ce-b8c8cb25ebc6": {
+                    "duration_value": "15s"
+                },
+                "a8321357-4ca0-4e0d-b47c-a871763d30b8": {
+                    "duration_value": "0s"
+                },
+                "35d456d1-38c5-4cd2-8c3d-2a4b5e69333f": {
+                    "duration_value": "60s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "16s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "120s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "3s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "10s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "80s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "1s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "2ccf0385-2e70-4163-b119-79193b06adba": {
+                    "integer_value": 1
+                },
+                "fd014cab-261e-4bf6-b1f2-39797e79f0b8": {
+                    "integer_value": 514
+                },
+                "508358b0-58ab-469e-9b6e-65a24574615c": {
+                    "integer_value": 25
+                }
+            }
+        },
+        {
+            "from": "2020-03-27T10:26:00Z",
+            "to": "2020-03-27T10:27:00Z",
+            "values": {
+                "27c47ae7-41b7-49ce-89ce-b8c8cb25ebc6": {
+                    "duration_value": "15s"
+                },
+                "a8321357-4ca0-4e0d-b47c-a871763d30b8": {
+                    "duration_value": "0s"
+                },
+                "35d456d1-38c5-4cd2-8c3d-2a4b5e69333f": {
+                    "duration_value": "60s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "16s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "120s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "3s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "10s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "80s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "1s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "2ccf0385-2e70-4163-b119-79193b06adba": {
+                    "integer_value": 1
+                },
+                "fd014cab-261e-4bf6-b1f2-39797e79f0b8": {
+                    "integer_value": 514
+                },
+                "508358b0-58ab-469e-9b6e-65a24574615c": {
+                    "integer_value": 25
+                }
+            }
+        },
+        {
+            "from": "2020-03-27T10:27:00Z",
+            "to": "2020-03-27T10:28:00Z",
+            "values": {
+                "27c47ae7-41b7-49ce-89ce-b8c8cb25ebc6": {
+                    "duration_value": "15s"
+                },
+                "a8321357-4ca0-4e0d-b47c-a871763d30b8": {
+                    "duration_value": "0s"
+                },
+                "35d456d1-38c5-4cd2-8c3d-2a4b5e69333f": {
+                    "duration_value": "60s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "16s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "120s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "3s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "10s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "80s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "1s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "2ccf0385-2e70-4163-b119-79193b06adba": {
+                    "integer_value": 1
+                },
+                "fd014cab-261e-4bf6-b1f2-39797e79f0b8": {
+                    "integer_value": 514
+                },
+                "508358b0-58ab-469e-9b6e-65a24574615c": {
+                    "integer_value": 25
+                }
+            }
+        },
+        {
+            "from": "2020-03-27T10:28:00Z",
+            "to": "2020-03-27T10:29:00Z",
+            "values": {
+                "27c47ae7-41b7-49ce-89ce-b8c8cb25ebc6": {
+                    "duration_value": "15s"
+                },
+                "a8321357-4ca0-4e0d-b47c-a871763d30b8": {
+                    "duration_value": "0s"
+                },
+                "35d456d1-38c5-4cd2-8c3d-2a4b5e69333f": {
+                    "duration_value": "60s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "16s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "120s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "3s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "10s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "80s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "1s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "2ccf0385-2e70-4163-b119-79193b06adba": {
+                    "integer_value": 1
+                },
+                "fd014cab-261e-4bf6-b1f2-39797e79f0b8": {
+                    "integer_value": 514
+                },
+                "508358b0-58ab-469e-9b6e-65a24574615c": {
+                    "integer_value": 25
+                }
+            }
+        },
+        {
+            "from": "2020-03-27T10:29:00Z",
+            "to": "2020-03-27T10:30:00Z",
+            "values": {
+                "27c47ae7-41b7-49ce-89ce-b8c8cb25ebc6": {
+                    "duration_value": "15s"
+                },
+                "a8321357-4ca0-4e0d-b47c-a871763d30b8": {
+                    "duration_value": "0s"
+                },
+                "35d456d1-38c5-4cd2-8c3d-2a4b5e69333f": {
+                    "duration_value": "60s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "16s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "120s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "3s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "10s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "80s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "1s"
+                },
+                "0ccaf3ef-4399-4bb4-b6c2-e59534f49352": {
+                    "duration_value": "0s"
+                },
+                "2ccf0385-2e70-4163-b119-79193b06adba": {
+                    "integer_value": 1
+                },
+                "fd014cab-261e-4bf6-b1f2-39797e79f0b8": {
+                    "integer_value": 514
+                },
+                "508358b0-58ab-469e-9b6e-65a24574615c": {
+                    "integer_value": 25
+                }
+            }
+        }
+    ],
+    "metadata": {
+        "timezone": {
+            "location": "Europe/Berlin",
+            "offset": 60
+        },
+        "device_type": "IBEX"
+    }
+}
